@@ -25,8 +25,4 @@ This repository contains a simple and responsive pricing page created using HTML
 - A modern web browser
 - Basic knowledge of HTML and CSS for customization
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pricing-page-template.git
